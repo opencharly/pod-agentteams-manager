@@ -1,7 +1,5 @@
-version: 2026.232.0520
 agentteams-manager:
     candy:
-        version: 2026.224.0600
         description: |-
             The AgentTeams Manager agent image — the openclaw gateway runtime the
             controller spawns for every Manager CR. Composes the shared
